@@ -1,0 +1,9 @@
+[internetShortcut]
+URL=uti:gmap/gmap.asp?hwnd=%HWND&
+[WebctrlInfo]
+desc=
+tagfile_name=
+start_name=
+run_name=
+shut_name=
+run_interval=
